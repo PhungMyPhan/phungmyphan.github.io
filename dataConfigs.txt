@@ -3,5 +3,6 @@
 "keyAllWok": "aaa",
 "isBanWo": "",
 "isNativWo": "",
-"splash_wok": ""
+"splash_wok": "",
+"is_vung": "aa"
 }
