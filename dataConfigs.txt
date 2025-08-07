@@ -1,3 +1,7 @@
 {
-"userKeys": "NjgyOWU5Zjc2N2ZjMmUyOGNmYmQ4MWZk"
+"keyWok": "6829e9f767fc2e28cfbd81fd",
+"keyAllWok": "aaa",
+"isBanWo": "",
+"isNativWo": "",
+"splash_wok": ""
 }
